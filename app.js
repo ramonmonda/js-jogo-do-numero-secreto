@@ -87,7 +87,7 @@ function verificarChute() {
 }
 
 // Variáveis globais
-var numeroLimite = 10;
+var numeroLimite = 100;
 var listaDeNumerosSorteados = [];
 var numeroSecreto = gerarNumeroAleatorio();
 var tentativas = 1;
