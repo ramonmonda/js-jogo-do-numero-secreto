@@ -18,10 +18,10 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 
 ## 🛠️ Tecnologias Utilizadas
 <br>
-🔹 HTML para estrutura da página.<br>
-🔹 CSS para estilização.<br>
-🔹 JavaScript para lógica do jogo e interação com o usuário.<br>
-🔹 ResponsiveVoice.js para conversão de texto em áudio.<br><br>
+🔹 **HTML** para estrutura da página.<br>
+🔹 **CSS** para estilização.<br>
+🔹 **JavaScript** para lógica do jogo e interação com o usuário.<br>
+🔹 **API ResponsiveVoice** para conversão de texto em áudio.<br><br>
 
 ## 📷 Demonstração
 <br>
@@ -30,7 +30,7 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 ## 🔗 Como Executar
 <br>
 1️⃣ Clone este repositório: <code>git clone https://github.com/seu-usuario/js-jogo-do-numero-secreto.git</code><br>
-2️⃣ Abra o arquivo index.html no navegador.<br>
+2️⃣ Abra o arquivo **index.html** no navegador.<br>
 3️⃣ Ou apenas <a href="https://jsgame-nn2wrnom2-ramonmondas-projects.vercel.app">Clique Aqui</a>.<br><br>
 
 ## 📌 Melhorias Futuras
