@@ -11,17 +11,17 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 
 ## 🎮 Como Jogar
 <br>
-1️⃣ Escolha um número entre 1 e 10 (padrão, mas pode ser alterado no código).<br>
-2️⃣ Digite seu palpite no campo de entrada e pressione "Enviar".<br>
-3️⃣ O jogo informará se o número secreto é maior ou menor.<br>
+1️⃣ Escolha um número entre 1 e 100 (padrão, mas pode ser alterado no código).<br>
+2️⃣ Digite seu palpite no campo de entrada e pressione "Chutar".<br>
+3️⃣ O jogo informará se o número secreto é maior ou menor, ou se você acertou de primeira.<br>
 4️⃣ Continue tentando até acertar!<br><br>
 
 ## 🛠️ Tecnologias Utilizadas
 <br>
-HTML para estrutura da página.<br>
-CSS para estilização.<br>
-JavaScript para lógica do jogo e interação com o usuário.<br>
-ResponsiveVoice.js para conversão de texto em áudio.<br><br>
+🔹 HTML para estrutura da página.<br>
+🔹 CSS para estilização.<br>
+🔹 JavaScript para lógica do jogo e interação com o usuário.<br>
+🔹 ResponsiveVoice.js para conversão de texto em áudio.<br><br>
 
 ## 📷 Demonstração
 <br>
@@ -29,18 +29,13 @@ ResponsiveVoice.js para conversão de texto em áudio.<br><br>
 
 ## 🔗 Como Executar
 <br>
-1️⃣ Clone este repositório:<br>
-
-sh<br>
-Copiar<br>
-Editar<br>
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git<br>
+1️⃣ Clone este repositório:backtick (git clone https://github.com/seu-usuario/js-jogo-do-numero-secreto.git)<br>
 2️⃣ Abra o arquivo index.html no navegador.<br><br>
 
 ## 📌 Melhorias Futuras
 <br>
 🔹 Personalização do intervalo de números.<br>
 🔹 Implementação de um contador de tentativas com estatísticas.<br>
-🔹 Interface mais atrativa e responsiva.<br>
+🔹 Interface mais atrativa e responsiva.<br><br>
 
-📢 Sinta-se à vontade para contribuir com sugestões e melhorias!<br><br>
+**📢 Sinta-se à vontade para contribuir com sugestões e melhorias!**<br><br>
