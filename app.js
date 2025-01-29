@@ -10,9 +10,11 @@ function exibirMensagemInicial() {
     const escolhaFrase = `Escolha um número entre 1 e ${numeroLimite}`;
 
     // Converte texto em áudio
-    responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate:1.2});
-    responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate:1.2});
-
+    setTimeout(function() {
+        responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate:1.2});
+        responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate:1.2});
+    }, 1000);
+    
     // Exibe mensagens na tela
     exibeTextoNaTela("h1", "Jogo do Número Secreto");
     exibeTextoNaTela("p", escolhaFrase);
