@@ -11,11 +11,11 @@ function exibirMensagemInicial() {
 
     // Converte texto em áudio
     setTimeout(function() {
-        responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate:1.2});
+        responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate: 1.2});
         setTimeout(function() {
-            responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate:1.2});
-        }, 1000);
-    }, 1000);
+            responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate: 1.2});
+        }, 2000);
+    }, 2000);
     
     // Exibe mensagens na tela
     exibeTextoNaTela("h1", "Jogo do Número Secreto");
