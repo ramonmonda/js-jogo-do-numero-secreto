@@ -1,7 +1,6 @@
 # 🎲 Jogo do Número Secreto
 <br>
-Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador deve adivinhar um número secreto gerado aleatoriamente. O jogo fornece feedback em tempo real através de texto na tela e áudio, tornando a experiência mais dinâmica e interativa.
-<br><br><br>
+Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador deve adivinhar um número secreto gerado aleatoriamente. O jogo fornece feedback em tempo real através de texto na tela e áudio, tornando a experiência mais dinâmica e interativa.<br><br>
 
 ## 🚀 Funcionalidades
 <br>
@@ -9,7 +8,7 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 ✅ Feedback em tempo real sobre os palpites do jogador (maior ou menor).<br>
 ✅ Suporte a voz em português utilizando a API ResponsiveVoice.<br>
 ✅ Reinício automático ao acertar o número secreto.<br>
-<br><br><br>
+<br><br>
 
 ## 🎮 Como Jogar
 <br>
@@ -17,7 +16,7 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 2️⃣ Digite seu palpite no campo de entrada e pressione "Enviar".<br>
 3️⃣ O jogo informará se o número secreto é maior ou menor.<br>
 4️⃣ Continue tentando até acertar!<br>
-<br><br><br>
+<br><br>
 
 ## 🛠️ Tecnologias Utilizadas
 <br>
