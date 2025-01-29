@@ -29,7 +29,7 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 
 ## 🔗 Como Executar
 <br>
-1️⃣ Clone este repositório:backtick (git clone https://github.com/seu-usuario/js-jogo-do-numero-secreto.git)<br>
+1️⃣ Clone este repositório: `git clone https://github.com/seu-usuario/js-jogo-do-numero-secreto.git`<br>
 2️⃣ Abra o arquivo index.html no navegador.<br><br>
 
 ## 📌 Melhorias Futuras
