@@ -4,36 +4,36 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 <br><br><br>
 
 ## 🚀 Funcionalidades
-
+<br>
 ✅ Geração de um número aleatório dentro de um limite definido.
 ✅ Feedback em tempo real sobre os palpites do jogador (maior ou menor).
 ✅ Suporte a voz em português utilizando a API ResponsiveVoice.
 ✅ Reinício automático ao acertar o número secreto.
-
+<br><br><br>
 
 ## 🎮 Como Jogar
-
+<br>
 1️⃣ Escolha um número entre 1 e 10 (padrão, mas pode ser alterado no código).
 2️⃣ Digite seu palpite no campo de entrada e pressione "Enviar".
 3️⃣ O jogo informará se o número secreto é maior ou menor.
 4️⃣ Continue tentando até acertar!
-
+<br><br><br>
 
 ## 🛠️ Tecnologias Utilizadas
-
+<br>
 HTML para estrutura da página.
 CSS para estilização.
 JavaScript para lógica do jogo e interação com o usuário.
 ResponsiveVoice.js para conversão de texto em áudio.
-
+<br><br><br>
 
 ## 📷 Demonstração
-
+<br>
 (Adicione aqui uma captura de tela ou GIF mostrando o jogo em funcionamento)
-
+<br><br><br>
 
 ## 🔗 Como Executar
-
+<br>
 1️⃣ Clone este repositório:
 
 sh
@@ -41,13 +41,13 @@ Copiar
 Editar
 git clone https://github.com/seu-usuario/jogo-numero-secreto.git
 2️⃣ Abra o arquivo index.html no navegador.
-
+<br><br><br>
 
 ## 📌 Melhorias Futuras
-
+<br>
 🔹 Personalização do intervalo de números.
 🔹 Implementação de um contador de tentativas com estatísticas.
 🔹 Interface mais atrativa e responsiva.
 
 📢 Sinta-se à vontade para contribuir com sugestões e melhorias!
-
+<br><br>
