@@ -18,10 +18,10 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 
 ## 🛠️ Tecnologias Utilizadas
 <br>
-🔹 **HTML** para estrutura da página.<br>
-🔹 **CSS** para estilização.<br>
-🔹 **JavaScript** para lógica do jogo e interação com o usuário.<br>
-🔹 **API ResponsiveVoice** para conversão de texto em áudio.<br><br>
+🔹 <strong>HTML</strong> para estrutura da página.<br>
+🔹 <strong>CSS</strong> para estilização.<br>
+🔹 <strong>JavaScript</strong> para lógica do jogo e interação com o usuário.<br>
+🔹 <strong>API ResponsiveVoice</strong> para conversão de texto em áudio.<br><br>
 
 ## 📷 Demonstração
 <br>
