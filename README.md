@@ -25,7 +25,7 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS onde o jogador de
 
 ## 📷 Demonstração
 <br>
-(Adicione aqui uma captura de tela ou GIF mostrando o jogo em funcionamento)<br><br>
+![Animação do projeto](img/gif_demonstrativo_js_jogo.gif)<br><br>
 
 ## 🔗 Como Executar
 <br>
