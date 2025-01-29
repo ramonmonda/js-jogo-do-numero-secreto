@@ -9,19 +9,10 @@ function exibirMensagemInicial() {
     const mensagemBoasVindas = "Seja bem vindo, ao jogo do número secreto!";
     const escolhaFrase = `Escolha um número entre 1 e ${numeroLimite}`;
 
-    // Verifica se o áudio está autorizado
-    const audioPermission = document.getElementById('audioPermission').checked;
-
     // Converte texto em áudio
-    if (audioPermission) {
-        setTimeout(function() {
-            responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate: 1.2});
-            setTimeout(function() {
-                responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate: 1.2});
-            }, 2000);
-        }, 2000);
-    }
-    
+    responsiveVoice.speak(mensagemBoasVindas, "Brazilian Portuguese Female", {rate:1.2});
+    responsiveVoice.speak(escolhaFrase, "Brazilian Portuguese Female", {rate:1.2});
+
     // Exibe mensagens na tela
     exibeTextoNaTela("h1", "Jogo do Número Secreto");
     exibeTextoNaTela("p", escolhaFrase);
